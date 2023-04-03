@@ -1,5 +1,7 @@
 #!/usr/bin/python3
+""" module created for a rectangle class"""
+
 
 class Rectangle:
-	"This does nothing"
-	pass
+    """ nothing happens """
+    pass

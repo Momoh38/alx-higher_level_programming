@@ -7,7 +7,7 @@ class Rectangle:
 
     Args:
         width: how big
-        height: how tall 
+        height: how tall
 
     Return: 0
     """

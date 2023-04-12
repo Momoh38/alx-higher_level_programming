@@ -7,7 +7,7 @@ function inserts line after containing string
 def append_after(filename="", search_string="", new_string=""):
     '''module Search and update
     '''
-    with open(filename, 'r+') as f:
+    with open(filename, 'r') as f:
         lines = f.readlines()
         i = 0
         for line in lines:
